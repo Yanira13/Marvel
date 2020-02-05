@@ -1,0 +1,10 @@
+
+div[class^=marvel]{
+    border:solid .1em;
+    width:20em;
+    margin:1em;
+    border-radius: 5%;
+}
+img{
+    padding-top: .5em;
+}
